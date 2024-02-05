@@ -1,0 +1,12 @@
+Perturbation,electra-base-de-squad2,bert-multi-english-german-squad2,xlm-roberta-base-squad2,gelectra-base-germanquad
+NONE,55.31,52.45,48.63,57.03
+IPC,54.36,51.95,49.46,57.4
+IPQ,41.29,38.34,41.06,43.01
+DCVC,55.13,52.63,50.14,56.72
+DCVQ,50.82,48.68,46.01,53.09
+DCRC,54.28,50.87,49.27,55.24
+DCRQ,49.93,48.39,45.25,52.57
+ICVC,54.85,52,49.73,56.99
+ICVQ,50.91,47.96,45.87,53.86
+ICRC,51.91,50.68,48.32,54.59
+ICRQ,50.02,47.16,45.8,52.02

@@ -1,0 +1,14 @@
+Perturbation,electra-base-de-squad2,bert-multi-english-german-squad2,xlm-roberta-base-squad2,gelectra-base-germanquad
+NONE,55.31,52.45,48.63,57.03
+DRC,50.36,48.19,45.42,51.59
+DRQ,24.82,22.28,20.33,24.36
+DVC,55.26,52.45,49.68,56.17
+DVQ,49.89,45.18,42.3,49.94
+RepeatRC,50.54,48.14,46.55,51.68
+RepeatRQ,55.17,51.23,48.82,56.67
+RepeatVC,54.58,51.32,49.59,55.9
+RepeatVQ,54.76,52.27,49.22,56.64
+SplitRC,47.82,46.78,45.6,49.73
+SplitRQ,31.35,33.35,35.66,34.85
+SplitVC,52.95,51.5,49.36,56.4
+SplitVQ,50.55,47.12,45.85,52.27

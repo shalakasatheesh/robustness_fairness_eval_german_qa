@@ -1,0 +1,5 @@
+Perturbation,electra-base-de-squad2,bert-multi-english-german-squad2,xlm-roberta-base-squad2,gelectra-base-germanquad
+NONE,71.06,68.03,66.31,72.17
+repeat_context,52.77,52.59,50,55.85
+repeat_question,47.91,50.59,44.01,46.96
+translate_question,52.17,49.64,47.6,53.49
