@@ -60,11 +60,11 @@ Run the notebook titled `/home/IAIS/ssatheesh/home/projects/robustness_fairness_
 
 ## Run evalaution
 
-python -m main \
-    --model_name deepset/xlm-roberta-base-squad2 \
-    --path_to_dataset "/home/IAIS/ssatheesh/home/projects/robustness_fairness_eval_german_qa/data/bbq_final.jsonl" \
-    --folder_to_save_results "/home/IAIS/ssatheesh/home/projects/thesis_code/src/results" \
-    --data_type bbq
+        python -m main \
+        --model_name deepset/xlm-roberta-base-squad2 \
+        --path_to_dataset "/home/IAIS/ssatheesh/home/projects/robustness_fairness_eval_german_qa/data/bbq_final.jsonl" \
+        --folder_to_save_results "/home/IAIS/ssatheesh/home/projects/thesis_code/src/results" \
+        --data_type bbq
 
 ## Estimate bias scores
 
