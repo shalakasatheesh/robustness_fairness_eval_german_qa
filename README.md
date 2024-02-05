@@ -14,12 +14,13 @@ Also contains two Jupyter notebooks for:
 # Author
 Shalaka Satheesh
 
-# License
-?
+<!-- # License
+? -->
 
-# References
-1. Robustness peturbations: https://github.com/mmoradi-iut/nlp-perturbation
-2. CheckList: https://github.com/marcotcr/checklist
-3. Pattern: https://www.digiasset.org/html/pattern-de.html
-4. BBQ Bias Dataset:https://github.com/nyu-mll/BBQ
-   
+# References:
+1. [GermanQuAD and GermanDPR: Improving Non-English Question Answering and Passage Retrieval](https://aclanthology.org/2021.mrqa-1.4/)(Möller et al., MRQA 2021)
+2. [NL-Augmenter 🦎 → 🐍](https://github.com/GEM-benchmark/NL-Augmenter/tree/main)(Kaustubh D. Dhole et al.)
+3. [BBQ: A hand-built bias benchmark for question answering](https://aclanthology.org/2022.findings-acl.165) (Parrish et al., Findings 2022)
+4. [NLP-perturbation](https://github.com/mmoradi-iut/nlp-perturbation)
+5. [CheckList](https://github.com/marcotcr/checklist)
+3. [Pattern](https://www.digiasset.org/html/pattern-de.html)
